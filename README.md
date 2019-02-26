@@ -31,14 +31,14 @@ This repository is an aggregation of links and content to support a multi-day Az
 
 ## Enterprise Telemetry
 
-|What (link)  |Who  |Description
+|What (link)  |Who  |Description |
 |---------|---------|---------|---------|
 |[CSE&O's Frank Chen on the Unified Telemetry Platform](https://www.youtube.com/watch?v=m8QkFHTS43I)     | Frank Chen, Lyle Dodge        | An overview of how CSE&O built their unified telemetry platform to have one place for application teams, infrastructure, and business program managers point their systems to for telemetry. Allow for reporting and correlation across groups. |
 |[CSE&O's Joe Pirelli on getting the right data points for your Line of Business Applications](https://www.youtube.com/watch?v=LpsZz_hslbM) | Joe Pirelli, Lyle Dodge | How one software engineering team looks at getting the right data points across both engineers and the business to maximize value to both groups. |
 
 ## DevOps
 
-|What (link)  |Who  |Description
+|What (link)  |Who  |Description |
 |---------|---------|---------|---------|
 |[DevOps, Agile & Azure with James Gagnon, Software Engineering Lead](https://www.youtube.com/watch?v=LhI75Uy6ANA)  | James Gagnon, Cloudsimplified.io  |
 |[CI/CD Pipelines using Azure DevOps w/Ronald Klemz in Microsoft’s Core Services Engineering org](https://www.youtube.com/watch?v=CdUQfY8OO1s)  |Ronald Klemz, Lyle Dodge |
